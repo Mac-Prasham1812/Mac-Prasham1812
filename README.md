@@ -1,9 +1,15 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=200&section=header&text=PRASHAM&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Android%20Developer%20%26%20Full%20Stack%20Enthusiast&descAlignY=55&descSize=20"/>
-</p>
+```
+██████╗ ██████╗  █████╗ ███████╗██╗  ██╗ █████╗ ███╗   ███╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██║  ██║██╔══██╗████╗ ████║
+██████╔╝██████╔╝███████║███████╗███████║███████║██╔████╔██║
+██╔═══╝ ██╔══██╗██╔══██║╚════██║██╔══██║██╔══██║██║╚██╔╝██║
+██║     ██║  ██║██║  ██║███████║██║  ██║██║  ██║██║ ╚═╝ ██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+```
+<p align="center"><b>Android Developer & Full Stack — CodeXen</b></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7F52FF&center=true&vCenter=true&width=500&lines=Building+Android+apps+with+Kotlin;Firebase+%2B+Firestore+backend+dev;Currently+building+JobMatrix" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+Android+apps+with+Kotlin;Firebase+%2B+Firestore+backend+dev;Currently+building+JobMatrix" />
 </p>
 
 ---
@@ -49,7 +55,11 @@ class Developer:
 
 ### `>>> ./snake`
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mac-Prasham1812/Mac-Prasham1812/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mac-Prasham1812/Mac-Prasham1812/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mac-Prasham1812/Mac-Prasham1812/output/github-contribution-grid-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/Mac-Prasham1812/Mac-Prasham1812/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ### `>>> contact`
