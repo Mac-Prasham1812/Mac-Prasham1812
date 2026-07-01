@@ -1,0 +1,54 @@
+<svg width="1000" height="280" viewBox="0 0 1000 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050607"/>
+      <stop offset="100%" stop-color="#0a0f0a"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="280" fill="url(#bg)" rx="10"/>
+  <rect x="6" y="6" width="988" height="268" fill="none" stroke="#39d97a" stroke-width="1.5" rx="8" opacity="0.55"/>
+
+  <!-- corner brackets -->
+  <path d="M20 30 L20 15 L45 15" stroke="#39d97a" stroke-width="2" fill="none"/>
+  <path d="M980 30 L980 15 L955 15" stroke="#39d97a" stroke-width="2" fill="none"/>
+  <path d="M20 250 L20 265 L45 265" stroke="#39d97a" stroke-width="2" fill="none"/>
+  <path d="M980 250 L980 265 L955 265" stroke="#39d97a" stroke-width="2" fill="none"/>
+
+  <text x="36" y="42" font-family="Fira Code, monospace" font-size="15" fill="#39d97a" opacity="0.85">Mac-Prasham1812 / developer.profile_</text>
+
+  <text x="36" y="90" font-family="Fira Code, monospace" font-size="16" fill="#39d97a">// Hi there, I'm</text>
+
+  <text x="34" y="168" font-family="Arial Black, Arial, sans-serif" font-size="78" font-weight="900" fill="#00e5ff" opacity="0.7" filter="url(#glow)">PRASHAM</text>
+  <text x="30" y="164" font-family="Arial Black, Arial, sans-serif" font-size="78" font-weight="900" fill="#ffffff" filter="url(#glow)">PRASHAM</text>
+
+  <rect x="34" y="188" width="560" height="34" fill="none" stroke="#00c2d9" stroke-width="1.5" rx="4"/>
+  <text x="52" y="210" font-family="Fira Code, monospace" font-size="16" letter-spacing="3" fill="#4de6ff">ANDROID DEVELOPER &amp; FULL STACK ENTHUSIAST</text>
+
+  <text x="36" y="252" font-family="Fira Code, monospace" font-size="15" fill="#39d97a">&gt; Initializing developer profile</text>
+  <rect x="330" y="240" width="220" height="14" fill="none" stroke="#39d97a" opacity="0.5"/>
+  <rect x="332" y="242" width="216" height="10" fill="#39d97a"/>
+  <text x="560" y="252" font-family="Fira Code, monospace" font-size="14" fill="#39d97a">[100%]</text>
+
+  <!-- android bot made from simple shapes -->
+  <g transform="translate(845,60)" fill="#7ee68a" opacity="0.9">
+    <rect x="20" y="30" width="60" height="70" rx="14"/>
+    <circle cx="35" cy="55" r="5" fill="#050607"/>
+    <circle cx="65" cy="55" r="5" fill="#050607"/>
+    <rect x="10" y="35" width="10" height="45" rx="5"/>
+    <rect x="80" y="35" width="10" height="45" rx="5"/>
+    <rect x="30" y="100" width="14" height="35" rx="6"/>
+    <rect x="56" y="100" width="14" height="35" rx="6"/>
+    <line x1="25" y1="10" x2="18" y2="0" stroke="#7ee68a" stroke-width="3"/>
+    <line x1="75" y1="10" x2="82" y2="0" stroke="#7ee68a" stroke-width="3"/>
+  </g>
+
+  <path d="M36 262 l14 -8 l14 8 l14 -8 l14 8 l14 -8 l14 8" stroke="#4de6ff" stroke-width="3" fill="none"/>
+</svg>
