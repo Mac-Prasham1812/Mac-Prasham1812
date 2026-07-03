@@ -21,10 +21,10 @@ class Developer:
         self.name     = "Prasham Makwana"
         self.username = "Mac-Prasham1812"
         self.brand    = "CodeXen"
-        self.role     = "Android Developer"
-        self.location = "India"
-        self.stack    = ["Kotlin", "Java", "Firebase", "React"]
-        self.building = ["JobMatrix", "ScreenWord Alert"]
+        self.role     = "Android & Full Stack Developer | Freelancer"
+        self.location = "India & Remote Work"
+        self.stack    = ["Kotlin", "Java", "Firebase", "React","Retrofit", "MERN", "Node.js"]
+        self.building = ["JobMatrix", "ScreenWord Alert", "Video Downloader"]
 
     def say_hi(self):
         print("Thanks for visiting my profile!")
@@ -45,7 +45,8 @@ class Developer:
 ### `>>> cat projects.json`
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| **JobMatrix** | Full-stack job placement platform — Kotlin Android app + React admin panel | Kotlin, React, Firestore | 🟡 In Progress |
+| **JobMatrix** | Full-stack job platform — Kotlin Android app + React admin panel | Kotlin, React, Firestore | 🟡 In Progress |
+| **Video Downloader** | Any Video Downloading App — Kotlin Android app , XML, JSINJECTION | Kotlin| 🟡 In Progress |
 | **ScreenWord Alert** | Offline accessibility-service keyword monitor for Android | Kotlin, AccessibilityService | 🟢 Completed |
 
 ---
