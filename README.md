@@ -89,7 +89,4 @@ class Developer:
 
 <p align="center"><i>"Code is not just what I write, it's how I turn ideas into reality."</i></p>
 
-<p align="center"><i>"Build Somthing Togather"</i></p>
-
-
-Small documentation Update
+<p align="center"><i>"Build Something Togather"</i></p>
