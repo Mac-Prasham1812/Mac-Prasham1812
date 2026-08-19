@@ -52,9 +52,8 @@ class Developer:
 ---
 
 ### `>>> github.stats`
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mac-Prasham1812&show_icons=true&hide_border=true&bg_color=161B22&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=Mac-Prasham1812&background=161B22&border=30363D&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&border_radius=14" height="150"/>
 </p>
 
 ---
