@@ -90,4 +90,3 @@ class Developer:
 <p align="center"><i>"Code is not just what I write, it's how I turn ideas into reality."</i></p>
 
 <p align="center"><i>"Build Something Togather"</i></p>
-<p align="center"><i>"Build With Quality"</i></p>
