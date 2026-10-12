@@ -88,6 +88,3 @@ class Developer:
 </p>
 
 <p align="center"><i>"Build Something Togather"</i></p>
-
-<p align="center"><i>"Build with Quality"</i></p>
-
